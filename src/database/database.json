@@ -1,0 +1,54 @@
+{
+  "meetups": [
+    {
+      "description": "Haunted House Tour",
+      "startDate": "2024-06-05T09:00",
+      "endDate": "2024-06-05T11:00"
+    },
+    {
+      "description": "Zombie Apocalypse Drill",
+      "startDate": "2024-06-12T14:00",
+      "endDate": "2024-06-12T15:00"
+    },
+    {
+      "description": "Ghost Story Reading",
+      "startDate": "2024-06-20T10:00",
+      "endDate": "2024-06-20T12:00"
+    },
+    {
+      "description": "Vampire Coven Meeting",
+      "startDate": "2024-06-25T13:00",
+      "endDate": "2024-06-25T15:00"
+    },
+    {
+      "description": "Werewolf Hunt",
+      "startDate": "2024-07-03T09:30",
+      "endDate": "2024-07-03T10:30"
+    },
+    {
+      "description": "Witchcraft Workshop",
+      "startDate": "2024-07-10T11:00",
+      "endDate": "2024-07-10T13:00"
+    },
+    {
+      "description": "Seance Session",
+      "startDate": "2024-07-15T16:00",
+      "endDate": "2024-07-15T17:00"
+    },
+    {
+      "description": "Creepy Doll Exhibition",
+      "startDate": "2024-07-20T14:00",
+      "endDate": "2024-07-20T16:00"
+    },
+    {
+      "description": "Monster Mash Party",
+      "startDate": "2024-07-25T10:00",
+      "endDate": "2024-07-25T12:00"
+    },
+    {
+      "description": "Spooky Movie Marathon",
+      "startDate": "2024-07-30T09:00",
+      "endDate": "2024-07-30T11:00"
+    }
+  ]
+}
